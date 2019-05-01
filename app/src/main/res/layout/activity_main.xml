@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tahajut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tahajut"/>
+
+    <TextView
+        android:id="@+id/witir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/witir"/>
+
+    <TextView
+        android:id="@+id/rawatib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rawatib"/>
+
+    <TextView
+        android:id="@+id/dhuha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dhuha"/>
+
+    <TextView
+        android:id="@+id/istikhoroh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/istikoroh"/>
+
+    <TextView
+        android:id="@+id/tahiyyatumasjid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tahiyyatulmasjid"/>
+
+    <TextView
+        android:id="@+id/sholatsyuruq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sholatsyuruq"/>
+
+
+
+
+
+</LinearLayout>
